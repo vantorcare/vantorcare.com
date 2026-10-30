@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360">
+  <rect width="520" height="360" rx="16" fill="#e8f1ed"/>
+  <path d="M40 70 L400 50 L392 92 L34 112 Z" fill="#ffffff" stroke="#8fb8a8" stroke-width="3"/>
+  <path d="M392 92 L400 50 L490 44 L496 80 L470 120 L330 140 L360 100 Z" fill="#f7f3ec" stroke="#8fb8a8" stroke-width="3"/>
+  <path d="M330 140 L470 120 L440 190 L392 240 L330 180 L300 150 Z" fill="#ffffff" stroke="#8fb8a8" stroke-width="3"/>
+  <path d="M200 106 L300 100 L300 150 L330 180 L392 240 L380 300 L232 312 L222 260 Z" fill="#f7f3ec" stroke="#8fb8a8" stroke-width="3"/>
+  <g fill="#d9694f" stroke="#ffffff" stroke-width="2">
+    <circle cx="352" cy="148" r="7"/>
+    <circle cx="372" cy="146" r="6"/>
+    <circle cx="398" cy="178" r="6"/>
+    <circle cx="430" cy="214" r="6"/>
+    <circle cx="410" cy="112" r="6"/>
+    <circle cx="352" cy="102" r="6"/>
+    <circle cx="384" cy="96" r="6"/>
+    <circle cx="372" cy="276" r="6"/>
+    <circle cx="336" cy="200" r="6"/>
+    <circle cx="276" cy="164" r="6"/>
+    <circle cx="232" cy="98" r="6"/>
+    <circle cx="300" cy="76" r="6"/>
+  </g>
+  <g font-family="Georgia, serif" font-size="14" fill="#163a47">
+    <text x="120" y="88">TENNESSEE</text>
+    <text x="420" y="74">NC</text>
+    <text x="420" y="162">SC</text>
+    <text x="250" y="250">GEORGIA</text>
+  </g>
+</svg>

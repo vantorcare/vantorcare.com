@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="32" viewBox="0 0 164 36" role="img" aria-label="Vantor Care">
+  <path d="M18 32 C8 25 3 19 3 12.5 A7.5 7.5 0 0 1 18 9 A7.5 7.5 0 0 1 33 12.5 C33 19 28 25 18 32 Z" fill="#8fb8a8"/>
+  <path d="M11 13 L18 24 L25 13" fill="none" stroke="#163a47" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="42" y="24" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#ffffff">Vantor<tspan fill="#d9694f"> Care</tspan></text>
+</svg>
