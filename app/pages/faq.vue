@@ -22,7 +22,7 @@ const faqs = [
 <template>
 	<div class="container page narrow">
 		<Breadcrumbs :items="[{ label: 'FAQ' }]" />
-		<h2 class="page-title">Frequently asked questions</h2>
+		<h1 class="page-title">Frequently asked questions</h1>
 		<p class="lede">If your question is not here, call intake. There is no such thing as a question too small.</p>
 		<dl class="faq">
 			<template v-for="item in faqs" :key="item.q">
