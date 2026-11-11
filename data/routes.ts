@@ -14,6 +14,7 @@ export const staticRoutes = [
 	"/locations",
 	"/services",
 	"/guides",
+	"/guides/glossary",
 	"/blog",
 ];
 
