@@ -22,7 +22,7 @@ const offeredAt = locations.filter((l) => l.services.includes(service.slug));
 			<article>
 				<h1>{{ service.title }}</h1>
 				<p class="lede">{{ service.summary }}</p>
-				<p v-for="(para, i) in service.paragraphs" :key="i">{{ para }}</p>
+				<RichText v-for="(para, i) in service.paragraphs" :key="i" :text="para" />
 
 				<h2>What's included</h2>
 				<ul class="check-list">

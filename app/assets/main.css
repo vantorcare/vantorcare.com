@@ -380,6 +380,10 @@ main {
 	max-width: 44rem;
 }
 
+.glossary-entry {
+	scroll-margin-top: 96px;
+}
+
 .figure {
 	display: block;
 	margin: 2rem 0;

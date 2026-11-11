@@ -109,7 +109,7 @@ export const services: Service[] = [
 		summary: "Certified wound nurses for surgical wounds, pressure injuries, diabetic ulcers and wound vacs.",
 		paragraphs: [
 			"Every Vantor branch has at least one nurse certified in wound care (WCC or CWON) who reviews every open wound on the branch's census each week, even when a different nurse is doing the dressing changes. That review is where a wound that has stalled gets noticed early.",
-			"We measure and photograph each wound at least weekly and share the images with the ordering physician or wound clinic through our secure portal, so the surgeon who placed the incision can see it without an extra office visit. Negative pressure wound therapy (wound vac) changes are typically three times a week, and our nurses handle the pump, canister and supply orders.",
+			"We measure and photograph each wound at least weekly and share the images with the ordering physician or wound clinic through our secure portal, so the surgeon who placed the incision can see it without an extra office visit. [Negative pressure wound therapy (wound vac)](/guides/glossary#wound-vac) changes are typically three times a week, and our nurses handle the pump, canister and supply orders.",
 			"Healing at home depends on more than dressings. The wound nurse also looks at nutrition, blood sugar control, pressure relief on the mattress and chair, and how much the patient is moving, then works with the rest of the care team on whatever is slowing things down.",
 		],
 		includes: [
@@ -130,7 +130,7 @@ export const services: Service[] = [
 			"Infusion nurses administer IV antibiotics, hydration and other therapies at home, manage PICC and port lines, and teach patients and families to run infusions safely.",
 		summary: "IV antibiotics, hydration and line care at home, coordinated with your infusion pharmacy.",
 		paragraphs: [
-			"Patients who would once have stayed in the hospital for six weeks of IV antibiotics now go home with a PICC line and a pump. Our infusion nurses make that work: they meet the patient on the day of discharge, check the line, run the first home dose and teach the patient or a family member to connect and disconnect safely.",
+			"Patients who would once have stayed in the hospital for six weeks of IV antibiotics now go home with a [PICC line](/guides/glossary#picc-line) and a pump. Our infusion nurses make that work: they meet the patient on the day of discharge, check the line, run the first home dose and teach the patient or a family member to connect and disconnect safely.",
 			"We work alongside the infusion pharmacy, which compounds and delivers the medication, and the physician who ordered it. Our nurse handles the weekly dressing change and lab draw, watches for signs of line infection or clotting, and reports lab results to the prescriber the same day.",
 			"Beyond antibiotics, our infusion nurses manage hydration, total parenteral nutrition, inotropes for advanced heart failure and some biologic therapies. If a medication must be given in a supervised setting, we will say so plainly and help find a center near you.",
 		],
@@ -198,7 +198,7 @@ export const services: Service[] = [
 		paragraphs: [
 			"Our pediatric team cares for children who go home from the NICU or PICU with a tracheostomy, a ventilator, a feeding tube or a seizure disorder that needs a nurse close by. Every pediatric nurse completes our own trach and vent competency, with a skills check every year, before taking a case.",
 			"Most families start with overnight shifts so parents can sleep, then add daytime hours as they return to work. When a child starts school, the nurse can go too: we coordinate with the school district on the health plan, the bus ride and the classroom setup.",
-			"In every state we serve, Medicaid covers private duty nursing for children who qualify medically, regardless of household income, through programs like TEFRA or a state waiver. Our pediatric intake coordinators walk families through the application and the physician paperwork.",
+			"In every state we serve, Medicaid covers private duty nursing for children who qualify medically, regardless of household income, through programs like [TEFRA](/guides/glossary#tefra) or a state waiver. Our pediatric intake coordinators walk families through the application and the physician paperwork.",
 		],
 		includes: [
 			"Tracheostomy and home ventilator care",

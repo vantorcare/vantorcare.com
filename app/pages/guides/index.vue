@@ -23,5 +23,9 @@ usePageMeta({
 				<p>{{ g.summary }}</p>
 			</NuxtLink>
 		</div>
+		<p>
+			Seen a term like PICC line, TEFRA or wound vac on our pages? The
+			<NuxtLink to="/guides/glossary">glossary</NuxtLink> explains it in a few lines.
+		</p>
 	</div>
 </template>
