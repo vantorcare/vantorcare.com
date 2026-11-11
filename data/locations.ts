@@ -30,7 +30,7 @@ export const locations: Location[] = [
 		city: "Greenville",
 		state: "SC",
 		stateName: "South Carolina",
-		title: "Home Health Care in Spartanburg, SC",
+		title: "Home Health Care in Greenville, SC",
 		description:
 			"Vantor Care Greenville: skilled nursing, therapy and private duty nursing across Greenville, Pickens, Anderson and Laurens counties, from our original office on Verdae Boulevard.",
 		address: "200 Verdae Boulevard, Suite 410, Greenville, SC 29607",
