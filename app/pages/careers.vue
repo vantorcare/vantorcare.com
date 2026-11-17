@@ -29,7 +29,7 @@ const roles = [
 					Home care is nursing the way most of us imagined it in school: one patient at a time, with time to teach. We
 					try to run the company so that it stays that way.
 				</p>
-				<img src="/img/care-team.svg" width="520" height="300" class="figure" />
+				<img src="/img/care-team.svg" alt="Illustration of four members of a home care team standing side by side" width="520" height="300" class="figure" />
 				<h2>What you can expect</h2>
 				<ul class="check-list">
 					<li>W-2 employment with health, dental and vision from your first month</li>
