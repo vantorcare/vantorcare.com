@@ -250,7 +250,7 @@ export const serviceGroups = [
 	{
 		name: "Private duty nursing",
 		blurb: "A nurse in the home for a shift of four to twenty-four hours, for adults and children with complex needs.",
-		slugs: ["adult-private-duty", "pediatric-private-duty"],
+		slugs: ["adult-private-duty", "pediatric-private-duty", "respite-care"],
 	},
 ];
 
