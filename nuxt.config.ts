@@ -20,10 +20,13 @@ export default defineNuxtConfig({
 			],
 		},
 	},
+	routeRules: {
+		"/services/wound-ostomy-care": { redirect: { to: "/services/wound-care", statusCode: 301 } },
+	},
 	nitro: {
 		prerender: {
 			crawlLinks: false,
-			routes: [...siteRoutes(), "/sitemap.xml"],
+			routes: [...siteRoutes(), "/sitemap.xml", "/services/wound-ostomy-care"],
 		},
 	},
 });
