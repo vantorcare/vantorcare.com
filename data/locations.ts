@@ -189,7 +189,7 @@ export const locations: Location[] = [
 		services: [...homeHealth, "adult-private-duty"],
 		paragraphs: [
 			"Savannah was our first Georgia branch. The office is in the historic district, but most visits are out in Pooler, Richmond Hill, Rincon and the military families around Fort Stewart in Liberty County.",
-			"Diabetes is the most common diagnosis among Savannah patients, and diabetic foot wounds are a large part of the branch's work. Its certified wound nurses run a weekly review of every open wound on census and take referrals for [wound and ostomy care](/services/wound-ostomy-care) directly from the limb preservation clinic at Memorial.",
+			"Diabetes is the most common diagnosis among Savannah patients, and diabetic foot wounds are a large part of the branch's work. Its certified wound nurses run a weekly review of every open wound on census and take referrals for [wound and ostomy care](/services/wound-care) directly from the limb preservation clinic at Memorial.",
 			"Georgia requires home health agencies to be licensed by the Department of Community Health, and our Savannah branch is surveyed alongside our Augusta and Athens offices. Its most recent survey, in March, found no deficiencies.",
 		],
 	},
